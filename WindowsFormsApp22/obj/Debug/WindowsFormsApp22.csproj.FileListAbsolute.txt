@@ -1,0 +1,10 @@
+D:\Студенты\folder\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.exe.config
+D:\Студенты\folder\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.exe
+D:\Студенты\folder\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.pdb
+D:\Студенты\folder\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csprojAssemblyReference.cache
+D:\Студенты\folder\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.Form1.resources
+D:\Студенты\folder\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.Properties.Resources.resources
+D:\Студенты\folder\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.GenerateResource.cache
+D:\Студенты\folder\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.CoreCompileInputs.cache
+D:\Студенты\folder\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.exe
+D:\Студенты\folder\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.pdb
